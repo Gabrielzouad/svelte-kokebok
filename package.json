@@ -37,6 +37,7 @@
 	"dependencies": {
 		"@storyblok/svelte": "^4.0.6",
 		"@vitejs/plugin-basic-ssl": "^1.1.0",
+		"bits-ui": "^0.21.13",
 		"clsx": "^2.1.1",
 		"dotenv": "^16.4.5",
 		"svelte-preprocess": "^6.0.2",
